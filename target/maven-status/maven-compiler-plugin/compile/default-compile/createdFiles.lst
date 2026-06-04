@@ -1,0 +1,5 @@
+com\example\business\UserManager.class
+com\example\UserTest.class
+com\example\model\User.class
+com\example\utils\JpaUtils.class
+com\example\business\UserServlet.class
